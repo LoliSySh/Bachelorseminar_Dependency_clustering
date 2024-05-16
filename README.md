@@ -15,3 +15,7 @@ Scenic ist ein parameterfreier Algorithmus, der speziell entwickelt wurde, um di
 ## Mitwirken
 
 Interessierte, die an der Weiterentwicklung des Scenic Algorithmus mitarbeiten möchten, sind herzlich eingeladen, Pull-Anfragen zu stellen oder Issues zu eröffnen, um über Verbesserungen oder Fehler zu diskutieren.
+
+## Lizenz
+
+Dieses Projekt steht unter der [GNU General Public License v3.0 Lizenz](LICENSE).
